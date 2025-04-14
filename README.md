@@ -5,4 +5,4 @@ En el archivo 'tratamiento_shell.sh' están los comandos que se deben introducir
 
 Esto te permite típicas acciones de la *shell* como volver a lanzar comandos anteriores teclenado la flecha hacia arriba, usar las otras teclas de direcciones, ver tu nombre de usuario delante del comand que se vaya a poner...
 
-![image](https://github.com/user-attachments/assets/c3ac0015-1ff5-4e21-a980-f99f7fddb2a7)
+![image](https://github.com/user-attachments/assets/665249f9-f17a-483e-92b9-6305e589b938)
